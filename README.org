@@ -1,0 +1,9 @@
+* chirp
+
+A twitter client library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/chirp.git |
+| commit  | f7531c2                                   |
+| systems | chirp                                     |
+|---------+-------------------------------------------|
