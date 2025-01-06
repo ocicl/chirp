@@ -4,6 +4,6 @@ A twitter client library for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shinmera/chirp.git |
-| commit  | a6441af                                   |
+| commit  | cebf0bf                                   |
 | systems | chirp                                     |
 |---------+-------------------------------------------|
